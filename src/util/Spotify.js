@@ -1,6 +1,6 @@
 const clientId = '5fee64b1de0645529ed4ccbe72d20b76';
-const redirectUri = 'http://localhost:3000/'
-
+// const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'https://jammming-pac20.vercel.app/'
 
 let accessToken;
 
